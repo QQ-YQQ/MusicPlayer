@@ -2,4 +2,4 @@
 bin/
 out/
 target/
-LocalMusic/
+src/main/resources/LocalMusic/
